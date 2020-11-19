@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Utama.unity
+    guid: 21072cac368268445807e67cb5d96cec
+  - enabled: 1
+    path: Assets/Scenes/Scan_NoMeja.unity
+    guid: 6439316fba8828a46a3e0b585597368c
+  - enabled: 1
+    path: Assets/Scenes/Pilih_Kategori.unity
+    guid: 938803e5722875944aab9c4749a4194a
+  - enabled: 1
+    path: Assets/Scenes/Makanan.unity
+    guid: 626efe9d489a8764c99af94f649c65e8
+  - enabled: 1
+    path: Assets/Scenes/Minuman.unity
+    guid: 77f6d985f9d6d704bbb0d5a686f9173d
+  - enabled: 1
+    path: Assets/Scenes/vb_Greenteh.unity
+    guid: fb86bb7d9baa67548b071a2078f86d72
+  - enabled: 1
+    path: Assets/Scenes/vb_Esteh.unity
+    guid: 5926af2ab57753249942454e5d51e882
+  - enabled: 1
+    path: Assets/Scenes/vb_Kopi.unity
+    guid: 0bb7674ea5c80e9488f0c27f8c44757d
+  - enabled: 1
+    path: Assets/Scenes/vb_Genderuo.unity
+    guid: 10ddcd0c6ba3cb14fb49785258f9c98b
+  - enabled: 1
+    path: Assets/Scenes/vb_Seblak.unity
+    guid: 0d28084e3c580324491411f334c1de59
+  - enabled: 1
+    path: Assets/Scenes/vb_Pizza.unity
+    guid: a64c464d2aa8f70478054c3d78fc65af
+  - enabled: 1
+    path: Assets/Scenes/vb_Gorengan.unity
+    guid: 643e9193b63c0da4ea04fee70b9239ce
+  - enabled: 1
+    path: Assets/Scenes/Pemesanan_old.unity
+    guid: bf5786171c1c4e24eb5262113bd204d6
+  m_configObjects: {}

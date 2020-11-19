@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Scan_NoMeja.unity
+  isLoaded: 1
+  isActive: 1
